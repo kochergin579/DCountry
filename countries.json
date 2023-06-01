@@ -1,0 +1,139 @@
+[
+    {
+        "country": "Aruba",
+        "languages": [
+            "Dutch",
+            "English",
+            "Papiamento",
+            "Spanish"
+        ]
+    },
+
+    {
+        "country": "Afghanistan",
+        "languages": [
+            "Balochi",
+            "Dari",
+            "Pashto",
+            "Turkmenian",
+            "Uzbek"
+        ]
+    },
+    {
+        "country": "Angola",
+        "languages": [
+            "Ambo",
+            "Chokwe",
+            "Kongo",
+            "Luchazi",
+            "Luimbe-nganguela",
+            "Luvale",
+            "Mbundu",
+            "Nyaneka-nkhumbi",
+            "Ovimbundu"
+        ]
+    },
+    {
+        "country": "Anguilla",
+        "languages": [
+            "English"
+        ]
+    },
+    {
+        "country": "Albania",
+        "languages": [
+            "Albaniana",
+            "Greek",
+            "Macedonian"
+        ]
+    },
+    {
+        "country": "Andorra",
+        "languages": [
+            "Catalan",
+            "French",
+            "Portuguese",
+            "Spanish"
+        ]
+    },
+    {
+        "country": "Netherlands Antilles",
+        "languages": [
+            "Dutch",
+            "English",
+            "Papiamento"
+        ]
+    },
+    {
+        "country": "United Arab Emirates",
+        "languages": [
+            "Arabic",
+            "Hindi"
+        ]
+    },
+    {
+        "country": "Argentina",
+        "languages": [
+            "Indian Languages",
+            "Italian",
+            "Spanish"
+        ]
+    },
+    {
+        "country": "Armenia",
+        "languages": [
+            "Armenian",
+            "Azerbaijani"
+        ]
+    },
+    {
+        "country": "American Samoa",
+        "languages": [
+            "English",
+            "Samoan",
+            "Tongan"
+        ]
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "languages": [
+            "Creole English",
+            "English"
+        ]
+    },
+    {
+        "country": "Australia",
+        "languages": [
+            "Arabic",
+            "Canton Chinese",
+            "English",
+            "German",
+            "Greek",
+            "Italian",
+            "Serbo-Croatian",
+            "Vietnamese"
+        ]
+    },
+    {
+        "country": "Austria",
+        "languages": [
+            "Czech",
+            "German",
+            "Hungarian",
+            "Polish",
+            "Romanian",
+            "Serbo-Croatian",
+            "Slovene",
+            "Turkish"
+        ]
+    },
+    {
+        "country": "Azerbaijan",
+        "languages": [
+        "Armenian",
+        "Azerbaijani",
+        "Lezgian",
+        "Russian"
+        ]
+    }
+]

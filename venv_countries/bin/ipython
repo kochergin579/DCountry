@@ -1,4 +1,4 @@
-#!/home/alex/Projects/DjangoCountries/venv_countries/bin/python3
+#!/home/alex/Projects/DjangoCountries/venv_countries/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

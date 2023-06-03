@@ -29,3 +29,4 @@
 - [x] Добавлен файл requirements.txt
 - [x] Шаблоны используют наследование от базового шаблона
 - [x] url'ы именованные# DjCountries
+# DjangoCountries

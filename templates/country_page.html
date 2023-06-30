@@ -5,12 +5,11 @@
 <a href="/languages/"> languages</a>
 
     <h2> {{country.name}} </h2>
-    Язык:
+Язык:
+
     <ul>
         {% for language in languages %}
-            <li>{{ language.name }}</li>
+         <li>{{ language.name }}</li>
     </ul>
-    {% endfor %}
-
-
+        {% endfor %}
 {% endblock %}

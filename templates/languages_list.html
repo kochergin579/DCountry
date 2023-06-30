@@ -1,12 +1,15 @@
+
 {% extends 'base.html' %}
 {% block content %}
-  <h2>Список языков</h2>
+    <h2>Список языков</h2>
 <ol>
-     {% for languages in country %}
-        {% for language in languages.languages%}
 
-        <li>{{language}} </li>
+    {% for language in language %}
 
-     {% endfor %}
-        {% endfor %}
+    <li><a href="/language/{{language}}">{{language.name}} </a></li>
+
+
+    {% endfor %}
+
+</ol>
 {% endblock %}
